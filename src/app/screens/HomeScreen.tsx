@@ -4,7 +4,7 @@ import { Link } from 'react-router';
 import { BottomNav } from '../components/BottomNav';
 import { PropertyCard } from '../components/PropertyCard';
 import { AgentCard } from '../components/AgentCard';
-import logo from 'figma:asset/a44ae93df5d1802e40d530aabb1d17debb0fea83.png';
+import logo from '../../assets/a44ae93df5d1802e40d530aabb1d17debb0fea83.png';
 
 const featuredProperties = [
   {

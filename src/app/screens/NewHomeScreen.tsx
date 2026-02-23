@@ -4,7 +4,7 @@ import { Search, Filter, Home, Newspaper, Plus, Bookmark, User, Settings, MapPin
 import { Switch } from '../components/ui/switch';
 import { ImageWithFallback } from '../components/figma/ImageWithFallback';
 import { Input } from '../components/ui/input';
-import locationIcon from 'figma:asset/5568e598ca8c8cf9ba3db49a96be5e066a028da1.png';
+import locationIcon from '../../assets/5568e598ca8c8cf9ba3db49a96be5e066a028da1.png';
 
 export function NewHomeScreen() {
   const navigate = useNavigate();

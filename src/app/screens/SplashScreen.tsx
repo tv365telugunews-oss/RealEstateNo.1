@@ -1,6 +1,6 @@
 import { useEffect } from 'react';
 import { useNavigate } from 'react-router';
-import logo from 'figma:asset/2648b6fe6cd2f73ea10b492b1cbb1db7e3fa0e8c.png';
+import logo from '../../assets/2648b6fe6cd2f73ea10b492b1cbb1db7e3fa0e8c.png';
 
 export function SplashScreen() {
   const navigate = useNavigate();
