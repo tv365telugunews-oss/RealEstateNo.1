@@ -1,7 +1,7 @@
 import { ReactNode } from 'react';
 import { useNavigate, useLocation } from 'react-router';
 import { ArrowLeft, Home, Search, PlusSquare, Heart, User } from 'lucide-react';
-import logoImage from 'figma:asset/7b347ed7d36bd5219e6162f4684766c4fc8bcfb9.png';
+import logoImage from '../../assets/7b347ed7d36bd5219e6162f4684766c4fc8bcfb9.png';
 
 interface LayoutProps {
   children: ReactNode;

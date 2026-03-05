@@ -1,6 +1,6 @@
 import { useNavigate } from 'react-router';
 import { Phone, Home, Mail } from 'lucide-react';
-import logo from 'figma:asset/7b347ed7d36bd5219e6162f4684766c4fc8bcfb9.png';
+import logo from '../../../assets/7b347ed7d36bd5219e6162f4684766c4fc8bcfb9.png';
 
 export function RegisterScreen() {
   const navigate = useNavigate();
