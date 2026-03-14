@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router';
-import logo from '../../../../assets/7b347ed7d36bd5219e6162f4684766c4fc8bcfb9.png';
+import logo from '../../../assets/7b347ed7d36bd5219e6162f4684766c4fc8bcfb9.png';
 import { 
   LayoutDashboard, 
   Home, 

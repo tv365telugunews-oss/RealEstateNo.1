@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { useNavigate } from 'react-router';
 import { Eye, EyeOff } from 'lucide-react';
 import { Input } from '../components/ui/input';
-import logo from '../../../assets/7b347ed7d36bd5219e6162f4684766c4fc8bcfb9.png';
+import logo from '../../assets/7b347ed7d36bd5219e6162f4684766c4fc8bcfb9.png';
 
 export function LoginScreen() {
   const navigate = useNavigate();
